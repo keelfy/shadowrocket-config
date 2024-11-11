@@ -59,6 +59,9 @@ DOMAIN-SUFFIX,ficbook.com
 # Miro
 DOMAIN-SUFFIX,miro.com
 
+# Canva
+DOMAIN-SUFFIX,canva.com
+
 # Notion
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.so

@@ -2,7 +2,8 @@
 # REPO: https://github.com/dlisin/shadowrocket-config
 
 # Client
-PROCESS-NAME,Discord,PROXY
+PROCESS-NAME,Discord
+PROCESS-NAME,Spotify
 
 # Torrents
 DOMAIN-SUFFIX,nnmclub.to

@@ -1,6 +1,9 @@
 # AUTHOR: Dmitry Lisin + keelfy
 # REPO: https://github.com/dlisin/shadowrocket-config
 
+# Client
+PROCESS-NAME,Discord,PROXY
+
 # Torrents
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-KEYWORD,rutracker
